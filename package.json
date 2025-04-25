@@ -1,0 +1,13 @@
+{
+  "dependencies": {
+    "live-server": "^1.2.2"
+  },
+  "devDependencies": {
+    "serve": "^14.2.4"
+  },
+  "scripts": {
+    "start": "serve pages"
+  }
+}
+
+
