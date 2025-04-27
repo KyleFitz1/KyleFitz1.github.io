@@ -22,6 +22,11 @@
     color: #ddd;
 }
 
+#nav a.active {
+    color: #17b817;
+    font-weight: bold;
+}
+
 #personal-info {
     text-align: center;
     padding: 2rem;
