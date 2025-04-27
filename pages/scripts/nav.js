@@ -6,7 +6,6 @@ document.addEventListener('DOMContentLoaded', function() {
     }
 
     function highlightCurrentPage(clickedLink) {
-        const currentPath = window.location.pathname;
         const navLinks = document.querySelectorAll('#nav a');
 
         navLinks.forEach(link => {
